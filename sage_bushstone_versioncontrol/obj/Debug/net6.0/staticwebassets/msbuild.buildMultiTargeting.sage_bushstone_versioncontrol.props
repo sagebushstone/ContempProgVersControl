@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\sage_bushstone_versioncontrol.props" />
+</Project>
